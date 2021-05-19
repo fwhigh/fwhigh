@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fwhigh
-- 👀 I’m interested in data science, machine learning, statistics, software
-- 🌱 I’m currently learning more on the engineering side
-- 💞️ I’m looking to collaborate on stats applied to ML
-- 📫 How to reach me @WillHighSci on Twitter
+- 👋  Hi, I’m @fwhigh
+- 👀  I’m interested in data science, machine learning, statistics, software
+- 🌱  I’m currently learning more on the engineering side
+- 💞️  I’m looking to collaborate on stats applied to ML
+- 📫  Reach me @WillHighSci on Twitter
 
 <!---
 fwhigh/fwhigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
