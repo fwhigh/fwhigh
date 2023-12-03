@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @fwhigh
-- 👀  I’m interested in data science, machine learning, statistics, software
+- 👀  I’m interested in data science, machine learning, causal inference, statistics, software
 - 🌱  I’m currently learning more on the engineering side
 - 💞️  I’m looking to collaborate on stats applied to ML
 - 📫  Reach me @WillHighSci on Twitter
